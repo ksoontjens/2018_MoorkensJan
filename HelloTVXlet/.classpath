@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="snake_test/snake test/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="build/00000.jar"/>
+	<classpathentry kind="lib" path="dist/DiscImage/BDMV/BACKUP/JAR/00000.jar"/>
+	<classpathentry kind="lib" path="dist/DiscImage/BDMV/JAR/00000.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/build/00000.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/dist/DiscImage/BDMV/BACKUP/JAR/00000.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/dist/DiscImage/BDMV/JAR/00000.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/tools/BDTools/bdjo.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/tools/BDTools/bouncycastle/bcprov-jdk16-138.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/tools/BDTools/cpistrip.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/tools/BDTools/id.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/tools/BDTools/index.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/tools/BDTools/logger.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/tools/BDTools/movieobject.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/tools/BDTools/playlist.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/tools/BDTools/security.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/tools/BDTools/soundgen.jar"/>
+	<classpathentry kind="lib" path="snake_test/snake test/tools/BDTools/soundsplit.jar"/>
+	<classpathentry kind="lib" path="tools/BDTools/bdjo.jar"/>
+	<classpathentry kind="lib" path="tools/BDTools/bouncycastle/bcprov-jdk16-138.jar"/>
+	<classpathentry kind="lib" path="tools/BDTools/cpistrip.jar"/>
+	<classpathentry kind="lib" path="tools/BDTools/id.jar"/>
+	<classpathentry kind="lib" path="tools/BDTools/index.jar"/>
+	<classpathentry kind="lib" path="tools/BDTools/logger.jar"/>
+	<classpathentry kind="lib" path="tools/BDTools/movieobject.jar"/>
+	<classpathentry kind="lib" path="tools/BDTools/playlist.jar"/>
+	<classpathentry kind="lib" path="tools/BDTools/security.jar"/>
+	<classpathentry kind="lib" path="tools/BDTools/soundgen.jar"/>
+	<classpathentry kind="lib" path="tools/BDTools/soundsplit.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
